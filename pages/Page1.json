@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 54,
+          "version": 56,
           "minHeight": 1260,
           "parentColumnSpace": 1,
           "dynamicTriggerPathList": [],
